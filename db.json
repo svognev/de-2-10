@@ -22,13 +22,13 @@
         "title": "Exportrechte",
         "text": "Wir haben unsere Benutzerverwaltung um ein zusätzliches „Export“ -Recht erweitert. Ab jetzt kann der Benutzer mit der Rolle „Admin“ steuern, ob andere Benutzer das Dokument exportieren dürfen.\n\nWenn das Recht zum Exportieren des Dokuments nicht mehr besteht, kann der Benutzer das Dokument auch nicht mehr duplizieren.",
         "icon": "https://i.ibb.co/DGg7n5B/10-4.png",
-        "image": "https://i.ibb.co/vkhjSC0/im04.png"
+        "image": "https://i.ibb.co/FqvD2VL/im05.png"
       },
       {
         "title": "Tastenkombinationen zum Formatieren",
         "text": "Sie wollten die Abschnittsformatierungen festlegen, wobei Sie einfach einen Textabschnitt auswählen und den entsprechenden Hotkey verwenden. Unser SMASHDOCs-Team entwickelte die für jedes Kundensystem individuell konfigurierbaren Kurzbefehle.\n\nWie können Sie dann feststellen, welche Hotkeys für Ihr System funktionieren? Gehen Sie zum Formatierungsmenü und fahren Sie mit der Maus über den beliebigen Stil, um Tooltips angezeigt werden. Die Tastenkombinationen sparen Zeit, wenn Sie sich ständig mit der Textformatierung beschäftigen. Eventuell müssen Sie das Formatierungsmenü nicht mehr öffnen!",
         "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
-        "image": "https://i.ibb.co/FqvD2VL/im05.png"
+        "image": "https://i.ibb.co/vkhjSC0/im04.png"
       }
     ]
 }
