@@ -1,0 +1,34 @@
+{
+    "features": [
+      {
+        "title": "Benutzer Symbolleiste",
+        "text": "Woher wussten Sie, wer gerade am Dokument arbeitet? Nun, im Grunde konnten Sie es nicht wissen. Ab jetzt aber befindet sich die Symbolleiste der aktiven Benutzer direkt vor Ihren Augen, sodass Sie den Online-Benutzer sofort an der kleinen grünen Markierung neben seinem Avatar erkennen können. Falls viele Benutzer an der Bearbeitung des Dokuments beteiligt sind, werden nur ein paar Symbole angezeigt und von der Zahl „+10“ usw gefolgt.\n\nMöchten Sie die vollständige Liste der Dokumentbenutzer sehen? Klicken Sie auf einen beliebigen Avatar und das Fenster „Benutzer verwalten“ wird angezeigt.",
+        "icon": "https://i.ibb.co/4dvzCH2/10-1.png",
+        "image": "https://i.ibb.co/37mMxcT/im01.png"
+      },
+      {
+        "title": "Inline-Bilder",
+        "text": "Kennen Sie das Konzept der Inline-Bilder? Diese sind äußerst hilfreich, wenn Sie sich nur auf den Textinhalt konzentrieren und trotzdem einen Blick auf die relevanten Bilder werfen möchten. Kleine Inline-Bilder werden direkt in den Textbereich eingefügt und können jederzeit vergrößert werden. So können Sie das Inline-Bild eines Ausrufezeichens hinzufügen, um den Textpunkt als von großer Bedeutung oder Kritikalität zu definieren, das Inline-Bild einer Formel usw. Es liegt an Ihnen, wie Sie es verwenden!",
+        "icon": "https://i.ibb.co/T48v4kx/10-2.png",
+        "image": "https://i.ibb.co/M1r2DXV/im02.png"
+      },
+      {
+        "title": "Frei positionierbare Verzeichnisse",
+        "text": "Viele von Ihnen haben gefragt: Kann ich ein Verzeichnis am Ende des Dokuments platzieren? Aber warum beschränken Sie sich nur auf das Verzeichnis, das entweder am Anfang oder am Ende steht? Wir haben uns für keine Einschränkungen entschieden - platzieren / verschieben Sie es an einen beliebigen Ort wie der gewöhnliche Textabschnitt.\n\nEin Klick auf das Verzeichnis öffnet seine Vollversion.\n\nBeachten Sie, dass eingefügte frei positionierbare Verzeichnisse immer im exportierten Dokument angezeigt werden, im Gegensatz zum Standardinhaltsverzeichnis, das vor dem Export deaktiviert werden kann.",
+        "icon": "https://i.ibb.co/MSBQ1PR/10-3.png",
+        "image": "https://i.ibb.co/MCKbDpB/im03.png"
+      },
+      {
+        "title": "Exportrechte",
+        "text": "Wir haben unsere Benutzerverwaltung um ein zusätzliches „Export“ -Recht erweitert. Ab jetzt kann der Benutzer mit der Rolle „Admin“ steuern, ob andere Benutzer das Dokument exportieren dürfen.\n\nWenn das Recht zum Exportieren des Dokuments nicht mehr besteht, kann der Benutzer das Dokument auch nicht mehr duplizieren.",
+        "icon": "https://i.ibb.co/DGg7n5B/10-4.png",
+        "image": "https://i.ibb.co/vkhjSC0/im04.png"
+      },
+      {
+        "title": "Tastenkombinationen zum Formatieren",
+        "text": "Sie wollten die Abschnittsformatierungen festlegen, wobei Sie einfach einen Textabschnitt auswählen und den entsprechenden Hotkey verwenden. Unser SMASHDOCs-Team entwickelte die für jedes Kundensystem individuell konfigurierbaren Kurzbefehle.\n\nWie können Sie dann feststellen, welche Hotkeys für Ihr System funktionieren? Gehen Sie zum Formatierungsmenü und fahren Sie mit der Maus über den beliebigen Stil, um Tooltips angezeigt werden. Die Tastenkombinationen sparen Zeit, wenn Sie sich ständig mit der Textformatierung beschäftigen. Eventuell müssen Sie das Formatierungsmenü nicht mehr öffnen!",
+        "icon": "https://i.ibb.co/jvqqFrZ/icon-no-icon.png",
+        "image": "https://i.ibb.co/FqvD2VL/im05.png"
+      }
+    ]
+}
